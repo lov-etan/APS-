@@ -2,7 +2,7 @@ package 실습_백준;
 
 import java.util.Scanner;
 
-public class N과M1 {
+public class N과M1_순열 {
 	static int N; //N까지의 자연수 
 	static int M; //M개의 순열 
 	static int[] sel; //선택된 수 
